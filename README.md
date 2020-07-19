@@ -1,1 +1,1 @@
-# Example of protocol buffer using golang
+# Example of protocol buffers using golang
